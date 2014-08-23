@@ -14,8 +14,7 @@ The project uses multiple concepts of Information Retrieval as well as following
 * Model-View-Controller (MCV) software pattern
 * GUI for Windows (Java Swing) <br>
 
-Abstract
-============================
+##Abstract
 
 There may be thousands of E-books and text documents stored in a network. Generally, users do not know which documents are most suitable for their need and where it is stored in the network. The search engine helps to quickly find the relevant documents and rank-wise shows them as per their relevancy.
 
